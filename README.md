@@ -20,3 +20,11 @@ Press the `U` key on yout keyboard while you click the mode You want from the mo
 HackBot is unable to do any hacking when the variable `project.auth.username` is set to `dogsmakemehappy`. This will always trigger the custom block `HackBot.fail`.
 ### HackBot Fail
 You have a 1 in 512 chance (that is, without `project.auth.username` being set to `dogsmakemehappy`) to trigger `HackBot.fail`.
+
+## Detailed Changelog
+#### Version: v1.0
+#### Release Date: June 20, 2021
+### New Things
+
+- HackBot mode sAcc
+- Other HackBot code
